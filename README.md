@@ -10,11 +10,10 @@ Os projetos encontrados nesse repositório são referentes aos projetos que fora
 - [X] MatplotLib 
 - [X] Seaborn
 - [X] Scikit-learn
-- [X] Bokeh
-- [X] Scipy
 
 
 Dentro de cada pasta, será possivel encontrar a programação utilizada.
+
 
 
 ### [Acesse meu GitHub](https://github.com/vithep)
